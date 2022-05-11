@@ -9,7 +9,4 @@ Indice:
 4. [QtCreator e Cmake](qtCreator/README.md)
 
 ---
-[<img align="left" alt="Alfystar" height="100px" src="img/Logo2 small.png" />][] [<img align="rigth" alt="Alfystar" height="100px" src="img/lampadina.png" />][] 
-
-
-
+<img align="left" alt="Alfystar" height="100px" src="img/Logo2 small.png" /> <img align="rigth" alt="Alfystar" height="100px" src="img/lampadina.png" />
