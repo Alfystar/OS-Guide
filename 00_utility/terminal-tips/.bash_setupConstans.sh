@@ -76,6 +76,8 @@ On_ICyan="\033[0;106m"    # Cyan
 On_IWhite="\033[0;107m"   # White
 
 # Various variables you might want for your PS1 prompt instead
+# https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html
+Time24h="\t"
 Time12h="\T"
 Time12a="\@"
 PathShort="\w"

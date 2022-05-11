@@ -10,6 +10,12 @@ Sono qui elencati dei comodi alias per i comandi per il file system più comuni,
 alias ll='ls -lha --color=auto'
 alias cd..='cd ..'
 alias b='cd ..'
+
+###################################################
+#################### APT Alias ####################
+###################################################
+alias normUpdate='sudo apt update ; sudo apt upgrade -y ; sudo apt autoremove -y'
+
 ```
 
 ---

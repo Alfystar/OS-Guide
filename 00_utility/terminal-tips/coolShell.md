@@ -90,7 +90,7 @@ E si realizza mettendo:
 # Shell form: {System-time} {Branch} {Path} $
 source /usr/share/git-core/contrib/completion/git-prompt.sh
 source ~/.bash_setupConstans.sh
-PS1="\[$BIBlue\]$Time12h \[$BYellow\]$PathShort\[\$(colorBranch)\]\$(__git_ps1)\n\[$Green\]└─▶\[$Color_Off\] \$ "
+PS1="\[$BIBlue\]$Time24h \[$BYellow\]$PathShort\[\$(colorBranch)\]\$(__git_ps1)\n\[$Green\]└─▶\[$Color_Off\] \$ "
 ```
 
 ---
